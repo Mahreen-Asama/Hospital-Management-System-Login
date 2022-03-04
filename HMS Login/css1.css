@@ -1,0 +1,63 @@
+#external{
+    background-color: gainsboro;
+    width: 600px;
+    margin: auto;
+    padding-top: 10px;
+}
+#bottom{
+    position: relative;
+    left: 70px;
+    border: 1px solid gray;
+    height: 350px;
+    width: 400px;
+    transform: rotate(4deg);
+    background-color: white;
+    margin: 30px;
+}
+#middle{
+    border: 1px solid gray;
+    height: 350px;
+    width: 400px;
+    transform: rotate(-6deg);
+    background-color: white;
+}
+#top{
+    border: 1px solid gray;
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    transform: rotate(2deg);
+    text-align: center;
+}
+#top img{
+    height: 150px;
+    width: 300px;
+    margin: 20px;
+}
+.unpass{
+    width: 290px;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+#login{
+    width: 300px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 15px;
+    padding: 8px;
+    border: none;
+    margin: 15px;
+}
+footer{
+    padding-top: 60px;
+    text-align: center;
+}
+footer img{
+    height: 120px;
+    width: 120px;
+}
+footer div{
+    color: gray;
+    font-size: 18px;
+}
